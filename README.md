@@ -1,5 +1,5 @@
 # Lung_Cancer_Prediction
-I have used the dataset "cancer patient data sets.csv" from Kaggle. This dataset contains information on patients with lung cancer, including their age, gender, air pollution exposure, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking status, passive smoker status, chest pain, coughing of blood, fatigue levels, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of fingernails, frequent colds, dry coughs, and snoring. By analyzing this data we can gain insight into what causes lung cancer and how best to treat it.
+I have used the dataset "cancer patient data sets.csv" from Kaggle. This dataset contains information on patients with lung cancer, including their age, gender, air pollution exposure, alcohol use, dust allergy, occupational hazards, genetic risk, chronic lung disease, balanced diet, obesity, smoking status, passive smoker status, chest pain, coughing of blood, fatigue levels, weight loss, shortness of breath, wheezing, swallowing difficulty, clubbing of fingernails, frequent colds, dry coughs, and snoring. By analyzing this data, we can gain insights into what causes lung cancer and how to treat it well.
 
 The details of the feature variables are:
 
